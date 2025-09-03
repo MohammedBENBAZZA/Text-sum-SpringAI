@@ -42,8 +42,8 @@ This project is a **personal Spring Boot application** that demonstrates the use
 ### 1. Clone the project
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/MohammedBENBAZZA/Text-sum-SpringAI
+cd Text-sum-SpringAI
 ```
 
 ### 2. Configure environment variables
