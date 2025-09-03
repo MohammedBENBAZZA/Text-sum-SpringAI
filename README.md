@@ -106,7 +106,7 @@ docker compose up --build
 ### 1. Upload a document
 
 ```http
-POST /documents/upload
+POST /documents
 Content-Type: multipart/form-data
 Form field: file (your document)
 ```
