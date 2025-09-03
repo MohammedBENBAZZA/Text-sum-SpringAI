@@ -19,7 +19,7 @@ This project is a **personal Spring Boot application** that demonstrates the use
 
 ## Technologies Used
 
-- **Java 21** & **Spring Boot 3.x**
+- **Java 17** & **Spring Boot 3.x**
 - **Spring Data JPA**
 - **PostgreSQL**
 - **Docker & Docker Compose**
